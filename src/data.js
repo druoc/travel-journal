@@ -15,16 +15,25 @@ export default [
         startDate: "15 Jun, 2022",
         endDate: "16 Jun 2022",
         description: "Buckingham Palace is recognised around the world as the home of The Queen, the focus of national and royal celebrations such as the Platinum Jubilee.",
-        imageUrl: "https://unsplash.com/photos/oMrUxQOtC3k"
+        imageUrl: "https://source.unsplash.com/oMrUxQOtC3k"
     },
     {
         title: "Niagara Falls",
         location: "Canada",
         googleMapsUrl: "https://www.google.com/maps/place/Niagara+Falls/@43.0828162,-79.0763516,17z/data=!3m1!4b1!4m5!3m4!1s0x89d34307412d7ae9:0x29be1d1e689ce35b!8m2!3d43.0828162!4d-79.0741629",
         startDate: "17 Jul, 2022",
-        endDate: "18 JuL 2022",
+        endDate: "18 Jul 2022",
         description: "Famous, towering waterfalls at the boundary of Canada & the United States, with tours & boat rides.",
-        imageUrl: "https://unsplash.com/photos/euIFZNIAE9E"
+        imageUrl: "https://source.unsplash.com/euIFZNIAE9E"
+    },
+    {
+        title: "Great Wall of China",
+        location: "China",
+        googleMapsUrl: "https://goo.gl/maps/RX5px1yYyAsKBdjLA",
+        startDate: "20 Jul, 2022",
+        endDate: "24 Jul 2022",
+        description: "Ancient world wonder that winds for more than 5,500 miles across China, with towers & walkways.",
+        imageUrl: "https://source.unsplash.com/ss5qrh0adz0"
     }
 
 ]
